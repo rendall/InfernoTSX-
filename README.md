@@ -1,2 +1,2 @@
 # Inferno JSX Type Defintions
-Typescript type definition files for use with the Inferno library when developing in Typescript and JSX (.tsx files).
+Typescript type definition files for developing with JSX (.tsx files) in the Inferno framework.
