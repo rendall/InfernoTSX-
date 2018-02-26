@@ -64,7 +64,7 @@ InfernoJSX.cloneElement(element, <{ isDisabled?: boolean } & InfernoJSX.Attribut
 */
 
 import { VNode } from "inferno";
-import { Ref as VNodeRef } from 'inferno/core/VNodes';
+import { Ref as VNodeRef } from 'inferno/core/implementation';
 
 type NativeAnimationEvent = AnimationEvent;
 type NativeClipboardEvent = ClipboardEvent;
